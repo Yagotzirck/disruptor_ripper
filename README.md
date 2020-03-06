@@ -13,6 +13,7 @@ Keep in mind that this works only with the PAL version (SLES_005.35); it will cr
  
 ## Usage
 Either open a command prompt and type
+
     disruptor_ripper <WAD.IN's path>
 , or (on Windows) drag-and-drop the archive WAD.IN over the executable; you will then be prompted to choose what you want to extract, which is pretty straightforward
 and doesn't need to be explained here.
